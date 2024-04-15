@@ -1,5 +1,6 @@
 # **Rock, Paper, Scissors Game**
-This is a simple implementation of the classic Rock,Paper,Scissors game in Python.
+***
+**This is a simple implementation of the classic Rock,Paper,Scissors game in Python.**
 
 ## **How to play**
 1. Clone this repo to your local machine
